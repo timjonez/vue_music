@@ -1,0 +1,17 @@
+{
+  "home": {
+    "listen": "Слушайте отличную музыку!"
+  },
+  "manage": {
+    "my_songs": "мои песни"
+  },
+  "message": "Слушайте отличную музыку!",
+  "register": {
+    "TOS": "",
+    "accept": ""
+  },
+  "song": {
+    "comment_cound": "",
+    "comment_count": ""
+  }
+}
